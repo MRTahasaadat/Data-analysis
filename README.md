@@ -37,7 +37,6 @@ Welcome to this repository! Here, you will find a collection of codes and projec
 
 ## Introduction - مقدمه
 
-[توضیح کوتاه در مورد پروژه و هدف آن]
 This repository provides a comprehensive collection of Python code examples and tutorials for data analysis, covering a wide range of topics from basic data manipulation to advanced machine learning techniques. Whether you're a beginner or an experienced data scientist, this repository offers valuable resources for learning and enhancing your data analysis skills.
 
 ## Features - ویژگی‌ها
