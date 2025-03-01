@@ -8,11 +8,11 @@ This folder contains a collection of tutorials and examples for essential and wi
 **Libraries Introduced:**
 **کتابخانه‌های معرفی شده:**
 
-*   [NumPy](Introduction of libraries/numpy.py) -Numerical computations and array manipulation (محاسبات عددی و کار با آرایه‌ها)
-*   [Pandas](Link to Pandas Tutorial) - Data analysis and manipulation(تحلیل و دستکاری داده‌ها)
-*   [Matplotlib](Link to Matplotlib Tutorial) - Plotting and data visualization(رسم نمودار و تجسم داده‌ه)
-*   [Seaborn](Link to Seaborn Tutorial)  - Advanced statistical data visualization(تجسم داده‌های آماری پیشرفته)
-*   [Scikit-learn](Link to Scikit-learn Tutorial) - Machine learning algorithms(الگوریتم‌های یادگیری ماشین)
+*   [NumPy] -Numerical computations and array manipulation (محاسبات عددی و کار با آرایه‌ها)
+*   [Pandas] - Data analysis and manipulation(تحلیل و دستکاری داده‌ها)
+*   [Matplotlib] - Plotting and data visualization(رسم نمودار و تجسم داده‌ه)
+*   [Seaborn] - Advanced statistical data visualization(تجسم داده‌های آماری پیشرفته)
+*   [Scikit-learn] - Machine learning algorithms(الگوریتم‌های یادگیری ماشین)
 
 **How to Use:**
 **نحوه استفاده:**
