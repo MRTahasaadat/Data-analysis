@@ -6,6 +6,7 @@ Welcome to this repository! Here, you will find a collection of codes and projec
 به این مخزن خوش آمدید! اینجا مجموعه‌ای از کدها و پروژه‌های مرتبط با آنالیز داده وجود دارد. هدف من ارائه‌ی مثال‌ها و تکنیک‌های مختلفی است که از ساده‌ترین تا پیشرفته‌ترین مباحث را شامل می‌شود. شما می‌توانید به راحتی به کدها دسترسی پیدا کنید و آن‌ها را برای یادگیری یا پروژه‌های خود مورد استفاده قرار دهید
 ### Topics Include:
 - Basic data analysis
+- Introduction of libraries
 - Data processing
 - Statistical modeling
 - Machine learning
@@ -13,6 +14,7 @@ Welcome to this repository! Here, you will find a collection of codes and projec
 
 ### موضوعات شامل:
 - تحلیل‌های اولیه داده
+- معرفی کتابخانه ها
 - پردازش داده‌ها
 - مدل‌سازی آماری
 - یادگیری ماشین
