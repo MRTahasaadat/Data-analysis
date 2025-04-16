@@ -1,4 +1,4 @@
-حتماً! این نسخه‌ی بدون جدول و ساده‌تر برای کپی راحت‌تر در فایل README:
+
 
 Iran City Population Map - Interactive Data Analysis Project
 
