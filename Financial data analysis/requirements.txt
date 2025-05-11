@@ -1,0 +1,6 @@
+streamlit
+yfinance
+plotly
+requests
+python-dotenv
+streamlit_autorefresh
