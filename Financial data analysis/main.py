@@ -78,7 +78,7 @@ if "data" not in st.session_state:
 data = st.session_state.data
 
 if data is not None:
-    st.write("📊 پیش‌نمایش داده‌ها:")
+    st.write("📊 Data preview:")
     st.dataframe(data.tail())
 
     if all(col in data.columns for col in ["Open", "High", "Low", "Close"]):
