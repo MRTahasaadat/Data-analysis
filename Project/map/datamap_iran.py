@@ -3,7 +3,6 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 import mplcursors
 
-# Given ten big cities
 cities_data = pd.DataFrame({
     'City': ['Tehran', 'Mashhad', 'Isfahan', 'Karaj', 'Shiraz',
              'Tabriz', 'Qom', 'Ahvaz', 'Kermanshah', 'Urmia'],
@@ -36,8 +35,8 @@ for i, row in cities_data.iterrows():
                     row['City'], fontsize=9, zorder=6)
     labels.append(label)
 ax.set_title('Top 10 Most Populated Cities in Iran')
-ax.set_xlabel('Longitude') #طول جغرافیایی
-ax.set_ylabel('Latitude') #عرض جغرافیایی
+ax.set_xlabel('Longitude') 
+ax.set_ylabel('Latitude')
 
 # Population graph display function(تابع نمایش نمودار جمعیت)
 def show_population(index):
