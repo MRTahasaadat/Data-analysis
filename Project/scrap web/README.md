@@ -1,4 +1,4 @@
-# 📰 Web Scraper for Mehr News - Economy Section 
+#  Web Scraper for Mehr News - Economy Section 
 
 اسکریپر وب برای بخش اقتصاد خبرگزاری مهر
 
