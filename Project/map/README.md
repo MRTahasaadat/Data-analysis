@@ -22,13 +22,13 @@ geopandas: بارگذاری نقشه ایران
 
 نصب کتابخانه‌ها با دستور زیر:
 
-pip install matplotlib pandas geopandas mplcursors 
+      pip install matplotlib pandas geopandas mplcursors 
 
 دانلود فایل نقشه ایران (iran.geojson یا shapefile) و قرار دادن آن در مسیر پروژه.
 
 اجرای برنامه:
 
-python iran_population_map.py 
+      python iran_population_map.py 
 
 ویژگی‌ها
 
