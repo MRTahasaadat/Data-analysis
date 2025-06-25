@@ -28,7 +28,7 @@ geopandas: بارگذاری نقشه ایران
 
 اجرای برنامه:
 
-      python iran_population_map.py 
+      datamap_iran
 
 ویژگی‌ها
 
